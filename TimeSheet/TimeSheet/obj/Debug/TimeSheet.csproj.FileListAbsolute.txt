@@ -1,0 +1,8 @@
+C:\dotNET\dotNET projects\TimeSheet\TimeSheet\bin\Debug\TimeSheet.exe.config
+C:\dotNET\dotNET projects\TimeSheet\TimeSheet\bin\Debug\TimeSheet.exe
+C:\dotNET\dotNET projects\TimeSheet\TimeSheet\bin\Debug\TimeSheet.pdb
+C:\dotNET\dotNET projects\TimeSheet\TimeSheet\obj\Debug\TimeSheet.exe
+C:\dotNET\dotNET projects\TimeSheet\TimeSheet\obj\Debug\TimeSheet.pdb
+C:\TimeSheet\TimeSheet\TimeSheet\bin\Debug\TimeSheet.exe.config
+C:\TimeSheet\TimeSheet\TimeSheet\obj\Debug\TimeSheet.exe
+C:\TimeSheet\TimeSheet\TimeSheet\obj\Debug\TimeSheet.pdb

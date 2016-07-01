@@ -1,0 +1,9 @@
+C:\dotNET\dotNET projects\TimeSheet\TimeSheetTests\bin\Debug\TimeSheetTests.dll
+C:\dotNET\dotNET projects\TimeSheet\TimeSheetTests\bin\Debug\TimeSheetTests.pdb
+C:\dotNET\dotNET projects\TimeSheet\TimeSheetTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\dotNET\dotNET projects\TimeSheet\TimeSheetTests\bin\Debug\TimeSheet.exe
+C:\dotNET\dotNET projects\TimeSheet\TimeSheetTests\bin\Debug\TimeSheet.pdb
+C:\dotNET\dotNET projects\TimeSheet\TimeSheetTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\dotNET\dotNET projects\TimeSheet\TimeSheetTests\obj\Debug\TimeSheetTests.csprojResolveAssemblyReference.cache
+C:\dotNET\dotNET projects\TimeSheet\TimeSheetTests\obj\Debug\TimeSheetTests.dll
+C:\dotNET\dotNET projects\TimeSheet\TimeSheetTests\obj\Debug\TimeSheetTests.pdb
